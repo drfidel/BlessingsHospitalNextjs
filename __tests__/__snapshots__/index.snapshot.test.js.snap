@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <nav
+    class="navbar navbar-light bg-light"
+  >
+    <div
+      class="container-fluid"
+    >
+      <a
+        class="navbar-brand"
+      >
+        Navbar
+      </a>
+    </div>
+  </nav>
+  <footer>
+    <h2>
+      This is the footer
+    </h2>
+  </footer>
+</div>
+`;
