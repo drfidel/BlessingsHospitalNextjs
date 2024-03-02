@@ -3,19 +3,6 @@ import React from 'react'
 const Departments = () => {
   return (
       <div>
-           <section class="breadcrumb_part breadcrumb_bg">
-            <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                <div class="breadcrumb_iner">
-                    <div class="breadcrumb_iner_item">
-                    <h2>Departments</h2>
-                    </div>
-                </div>
-                </div>
-            </div>
-            </div>
-        </section>
         <section className="our_depertment padding_top_department">
             
             <div className="container">
