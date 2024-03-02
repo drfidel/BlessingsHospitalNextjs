@@ -15,7 +15,7 @@ const NavigationBar = () => {
                             <Nav.Link href="/doctors">Doctors</Nav.Link>
                             <NavDropdown title="Pages" id="basic-nav-dropdown">
                                 <NavDropdown.Item href="#action/3.1">Pharmacy</NavDropdown.Item>
-                                <NavDropdown.Item href="#action/3.2">Services</NavDropdown.Item>
+                                <NavDropdown.Item href="services">Services</NavDropdown.Item>
                                 <NavDropdown.Item href="departments">Departments</NavDropdown.Item>
                                 <NavDropdown.Item href="#action/3.4">Others</NavDropdown.Item>
                             </NavDropdown>

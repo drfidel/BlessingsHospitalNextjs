@@ -29,13 +29,13 @@ const Complaint = () => {
                                     <select className="form-control" id="Select2" style={{background : 'teal', opacity : '0.8' }}>
                                         <option value="" selected>Time</option>
                                         <option value="1">8 AM TO 10AM</option>
-                                        <option value="1">10 AM TO 12PM</option>
-                                        <option value="1">12PM TO 2PM</option>
-                                        <option value="1">2PM TO 4PM</option>
-                                        <option value="1">4PM TO 6PM</option>
-                                        <option value="1">6PM TO 8PM</option>
-                                        <option value="1">4PM TO 10PM</option>
-                                        <option value="1">10PM TO 12PM</option>
+                                        <option value="2">10 AM TO 12PM</option>
+                                        <option value="3">12PM TO 2PM</option>
+                                        <option value="4">2PM TO 4PM</option>
+                                        <option value="5">4PM TO 6PM</option>
+                                        <option value="6">6PM TO 8PM</option>
+                                        <option value="7">4PM TO 10PM</option>
+                                        <option value="8">10PM TO 12PM</option>
                                     </select>
                                 </div>
                                 <div className="form-group col-md-12">

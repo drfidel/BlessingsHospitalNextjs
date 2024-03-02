@@ -108,6 +108,18 @@ input:hover, input:focus {
   padding-top: 140px;
 }
 
+/* line 48, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
+.padding_top_department {
+  padding-top: 540px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 48, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
+.padding_top_department {
+  padding-top: 580px;
+}
+}
+
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 48, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
   .padding_top {
@@ -118,6 +130,13 @@ input:hover, input:focus {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 48, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
   .padding_top {
+    padding-top: 70px;
+  }
+}
+
+@media (max-width: 576px) {
+  /* line 48, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
+  .padding_top_department {
     padding-top: 70px;
   }
 }
@@ -2109,6 +2128,7 @@ ul {
   margin-top: -652px;
 }
 
+
 @media (max-width: 991px) {
   /* line 24, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_our_depertment.scss */
   .our_depertment .depertment_content {
@@ -2993,6 +3013,13 @@ ul {
   }
 }
 
+@media (max-width: 400px) {
+  /* line 2, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_feature_part.scss */
+  .feature_part {
+    margin-top: 20px;
+  }
+}
+
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 2, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_feature_part.scss */
   .feature_part {
@@ -3022,6 +3049,7 @@ ul {
     margin-bottom: 15px;
   }
 }
+
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 18, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_feature_part.scss */
