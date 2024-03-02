@@ -5985,7 +5985,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../public/assets/img/breadcrumb.png");
+  background: #f4ff;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6014,7 +6014,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 18, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_breadcrumb.scss */
 .breadcrumb_part .breadcrumb_iner .breadcrumb_iner_item h2 {
-  color: #fff;
+  color: #edeff2;
   font-size: 100px;
   font-weight: 700;
   text-transform: capitalize;
