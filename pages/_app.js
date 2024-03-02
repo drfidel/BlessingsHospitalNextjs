@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import '../styles/global.css'
+import '../styles/themify-icons.css'
 import '../styles/animate.css'
 import '../styles/slick.css'
 import '@popperjs/core'
