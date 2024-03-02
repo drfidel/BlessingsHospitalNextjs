@@ -2,7 +2,7 @@ import React from 'react'
 
 const StaffProfiles = () => {
   return (
-    <section className="doctor_part section_padding">
+    <section className="doctor_part section_padding mt-4">
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-xl-8">

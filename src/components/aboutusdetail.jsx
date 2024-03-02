@@ -2,6 +2,20 @@ import React from 'react'
 
 const AboutUsDetail = () => {
   return (
+      <div>
+          <section class="breadcrumb_part breadcrumb_bg">
+            <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                <div class="breadcrumb_iner">
+                    <div class="breadcrumb_iner_item">
+                    <h2>About Us</h2>
+                    </div>
+                </div>
+                </div>
+            </div>
+            </div>
+        </section>
     <section className="about_us padding_top">
         <div className="container">
             <div className="row justify-content-between align-items-center">
@@ -40,6 +54,7 @@ const AboutUsDetail = () => {
             </div>
         </div>
     </section>
+    </div>
   )
 }
 

@@ -25,7 +25,7 @@ const NavigationBar = () => {
                                 <NavDropdown.Item href="#action/3.3">HIV/AIDS</NavDropdown.Item>
                                 <NavDropdown.Item href="#action/3.4">Pediatrics</NavDropdown.Item>
                             </NavDropdown>
-                            <Nav.Link href="">Contact</Nav.Link>
+                            <Nav.Link href="contact">Contact</Nav.Link>
                             <Nav.Link href="">Career</Nav.Link>
                         </Nav>
                         <Nav>
